@@ -1,207 +1,141 @@
-# 👋 Hi, I'm Nguyễn Âu Gia Bảo
+# Hi, I'm Nguyễn Âu Gia Bảo
 
-<div align="center">
+Software Engineer with experience in backend development, full-stack projects, and competitive programming.  
+I enjoy building practical applications, designing clean APIs, and solving challenging problems with efficient solutions.
 
-**Backend Developer | Competitive Programmer**
+## Connect
 
-*Specialized in Backend Development with Frontend Knowledge*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiaBao249)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_PROFILE)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/GB_JourneyToOLP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-%C3%A2u-gia-b%E1%BA%A3o-giabao-1621583a4/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenaugiabao24905@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenaugiabao24905/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/YOUR_FILE_ID)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenaugiabao24905/)
 
-</div>
-
----
-
-## 🏆 Competitive Programming Achievements
-
-<div align="center">
-
-### 🌟 ICPC (International Collegiate Programming Contest)
-
-| Event | Year | Result | Team Position | Name Team |
-|-------|------|--------|---------------|-----------|
-| **ICPC National** | 2025 | Consolation Prize (Joint Winner) | Coding | Soldier |
-| **ICPC Regional** | 2024 | Honorable Mention | Thinking | Soldier |
-
-### 📊 Competitive Programming Stats
-
-// cập nhật sau
-
-</div>
-
-**Specializations:**
-- ⚡ Dynamic Programming & Graph Algorithms
-- 🧮 Data Structures & Advanced Algorithms
-- 🎯 Problem Solving & Optimization Techniques
+- Email: `nguyenaugiabao24905@gmail.com`
+- Open to: `Software Engineer`, `Backend Developer`, `Full Stack Developer`
 
 ---
 
-## 💼 Featured Projects
+## About Me
 
-### 🏸 Badminton Shop E-Commerce Platform
-
-**Full Stack E-Commerce Solution with Admin Dashboard**
-
-<div align="center">
-
-![Tech Stack](https://img.shields.io/badge/Stack-Full%20Stack-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Live-success?style=for-the-badge)
-
-</div>
-
-**Key Features:**
-- 🛒 Complete shopping cart & checkout system
-- 👤 User authentication & authorization
-- 📦 Product management with variations (size, color)
-- 📊 Admin dashboard for orders & inventory
-- 🔍 Advanced product search & filtering
-- 💳 Secure payment integration
-
-**Tech Stack:**
-- **Frontend:** React + TypeScript + Tailwind CSS
-- **Backend:** Node.js + Express + TypeScript
-- **Database:** Supabase (PostgreSQL)
-- **Deployment:** [Vercel / Netlify / Your Platform]
-
-[🔗 Live Demo](https://your-demo-link.com) | [📁 Repository](https://github.com/GiaBao249/Badminton-Shop)
+- Software engineering student with hands-on experience building real-world web applications.
+- Worked on backend systems, frontend interfaces, authentication flows, and database-driven products.
+- Strong problem-solving mindset developed through ICPC and LeetCode.
+- Interested in software engineering, scalable applications, and collaborative product development.
 
 ---
 
-### 🚌 E-Bus Project
+## Competitive Programming Achievements
 
-**[Description của project E-Bus - bạn có thể thêm thông tin chi tiết ở đây]**
+### ICPC
 
-**Key Features:**
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
+| Event | Year | Result | Team Name |
+|------|------|--------|-----------|
+| ICPC Regional | 2025 | Honorable Mention | Soldier |
+| ICPC Regional | 2024 | Honorable Mention | Soldier |
 
-**Tech Stack:**
-- **Backend:** [Spring Boot / Golang / Node.js]
-- **Frontend:** [React / Vue / Angular]
-- **Database:** [PostgreSQL / MySQL / MongoDB]
-- **CI/CD:** Jenkins, GitHub Actions
+### LeetCode
 
-[🔗 Live Demo](link) | [📁 Repository](link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/nguyenaugiabao24905/)
+
+Reached **Knight** rank on LeetCode with a maximum rating of **1850**.
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-<div align="center">
+### Badminton Shop | Full-Stack E-Commerce Platform
 
-### 🎯 Core Expertise: Backend Development
+A full-stack e-commerce platform for badminton equipment with a complete shopping experience and an admin management system.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+#### Key Features
+- User authentication and authorization
+- Shopping cart and checkout workflow
+- Product management with variations such as size and color
+- Admin dashboard for products, orders, and inventory
+- Search and filtering for better product discovery
+- Online payment integration
+
+#### Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, TypeScript
+- **Database:** Supabase PostgreSQL
+- **Deployment:** Vercel
+
+#### Link
+- Repository: [Badminton-Shop](pttkhttt-badminton-shop.vercel.app)
+
+---
+
+### E-Bus Project | Smart School Bus Management System
+
+An intelligent school bus management system that supports transportation operations, student attendance, and real-time vehicle tracking for school bus services.
+
+#### Key Features
+- Role-based authentication for Admin, Driver, and Parent
+- Bus, route, pickup point, and schedule management
+- Real-time bus tracking on the map
+- Student pickup and drop-off attendance tracking
+- Dedicated dashboards for each user role
+
+#### Tech Stack
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript
+- **Database:** Supabase PostgreSQL
+- **Deployment:** Vercel, Docker, Jenkins
+
+#### Link
+- Live Demo: [E-Bus](https://cnpm-vert.vercel.app)
+
+---
+
+## Technical Skills
+
+### Programming Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Frameworks and Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 💻 Frontend Knowledge
-
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases & Tools
-
+### Databases and Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🔧 DevOps & CI/CD
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 🏃 Competitive Programming
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
-
-**Summary:**
-- 🎯 **Backend Specialist:** Java Spring Boot, Golang, Node.js, Express
-- 💻 **Frontend Familiar:** React, TypeScript, Tailwind CSS
-- 🔧 **DevOps:** Jenkins, GitHub Actions, Docker
-- 🗄️ **Databases:** PostgreSQL, MongoDB, Supabase
-- 🏃 **Competitive Programming:** C++ (ICPC experience)
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiaBao249&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBao249&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700)
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=GiaBao249&theme=radical&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GiaBao249&theme=radical&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFD700)
 
-</div>
-
 ---
 
-## 🎯 What I'm Looking For
+## Career Interests
 
-I'm actively seeking opportunities as a **Backend Developer / Software Engineer** where I can:
-- 💡 Apply my problem-solving skills from competitive programming
-- 🚀 Build scalable and efficient backend solutions
-- 🔧 Design and implement robust APIs and microservices
-- 🤝 Collaborate with talented teams on challenging projects
-- 📚 Continuously learn and grow as a developer
+I am looking for opportunities where I can contribute as a:
 
-**Open to:** Full-time positions, Internships, Freelance projects
-
-**Preferred Roles:**
-- Backend Developer
 - Software Engineer
+- Backend Developer
+- Full Stack Developer
 - API Developer
-- Full Stack Developer (Backend-focused)
 
----
+I am especially interested in:
 
-## 📝 Additional Achievements & Certifications
-
-- 🏅 **Algorithm & Data Structure Specialist** - Solved 1000+ problems across platforms
-- 📜 **Certification Name** - Issuing Organization (Year)
-- 🎓 **Academic Excellence** - [University Name] - [Achievement]
-- 📄 **Publications / Open Source Contributions** - [Details]
-
----
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-I'm always open to discussing **competitive programming**, **backend development**, or potential **collaboration opportunities**.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/YOUR_FILE_ID)
-
-**Email:** nguyenaugiabao24905@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Fun Fact
-
-*"I solve backend problems with the same passion I bring to competitive programming! 🚀"*
-
-Made with ❤️ by Nguyễn Âu Gia Bảo
-
-</div>
+- Building practical and scalable software
+- Designing clean and maintainable systems
+- Solving real-world engineering problems
+- Growing in collaborative and high-impact teams
