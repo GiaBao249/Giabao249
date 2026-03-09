@@ -63,7 +63,7 @@ A full-stack e-commerce platform for badminton equipment with a complete shoppin
 - **Deployment:** Vercel
 
 #### Link
-- Repository: [Badminton-Shop](pttkhttt-badminton-shop.vercel.app)
+- Repository: [Badminton-Shop](https://pttkhttt-badminton-shop.vercel.app/)
 
 ---
 
